@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"YandexOlimp"},{"l":"YandexOlimp.City"},{"l":"YandexOlimp.City.Objects"},{"l":"YandexOlimpTests"}]
